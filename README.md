@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dominik (@Dominos111G)
 - 👀 I’m interested in programming and e-sport
-- 🌱 I’m currently learning JS
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm from Poland (Yes, we have wi-fi here!)
 
